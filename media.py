@@ -15,3 +15,4 @@ class Media:
         return suma/len(self.arrayNotas)
 
         
+aaaa
